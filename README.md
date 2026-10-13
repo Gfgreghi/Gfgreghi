@@ -18,7 +18,6 @@
 <br>
 
 ---
-
 ## Sobre mim
 
 Sou estudante de **Engenharia da Computação na Universidade Virtual do Estado de São Paulo (UNIVESP)**, com foco no desenvolvimento de software, especialmente back-end.
