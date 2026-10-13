@@ -1,4 +1,4 @@
-# Gustavo Ferreira Greghi
+# <div align=center>Gustavo Ferreira Greghi</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/ENGENHARIA_DA_COMPUTAÇÃO-800020?style=for-the-badge" alt="Engenharia da Computação">
