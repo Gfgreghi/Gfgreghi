@@ -6,11 +6,9 @@
   <a href="https://www.linkedin.com/in/gustavofgreghi/">
     <img src="https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Gfgreghi">
-
-
-    <img src="https://img.shields.io/badge/GitHub-1E1E28?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+  <a href="https://github.com/Gfgreghi"><img src="https://img.shields.io/badge/GitHub-1E1E28?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
   </a>
+  <br>
 </div>
 
 <div align="center">
