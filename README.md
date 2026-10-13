@@ -63,6 +63,8 @@ O projeto reúne práticas de desenvolvimento back-end, persistência de dados, 
 ![Docker](https://img.shields.io/badge/Docker-7D1E37?style=for-the-badge&logo=docker&logoColor=FFFFFF)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-9C3A53?style=for-the-badge&logo=docker&logoColor=FFFFFF)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=2" width="100%" alt="Separador vinho">
+
 <div align="center">
   <a href="https://github.com/Gfgreghi/sistema_de_estoque">
     <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-800020?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ver repositório">
