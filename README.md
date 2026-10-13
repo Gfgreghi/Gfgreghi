@@ -77,7 +77,7 @@ O projeto reúne práticas de desenvolvimento back-end, persistência de dados, 
 
 A stack está organizada como uma prateleira: Python ocupa a posição principal, seguido pelas ferramentas de desenvolvimento back-end, banco de dados e infraestrutura.
 
-### Prateleira principal
+### Linguagens
 
 <img src="https://img.shields.io/badge/Python-800020?style=for-the-badge&logo=python&logoColor=FFFFFF" height="38" alt="Python — tecnologia principal">
 
