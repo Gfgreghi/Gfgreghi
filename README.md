@@ -1,12 +1,13 @@
 # Gustavo Ferreira Greghi
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ENGENHARIA_DA_COMPUTAÇÃO-800020?style=for-the-badge" alt="Engenharia da Computação"><br>
+  <img src="https://img.shields.io/badge/ENGENHARIA_DA_COMPUTAÇÃO-800020?style=for-the-badge" alt="Engenharia da Computação">
   <img src="https://img.shields.io/badge/BACK--END_DEVELOPMENT-4A0012?style=for-the-badge" alt="Desenvolvimento Back-end"><br>
   <a href="https://www.linkedin.com/in/gustavofgreghi/"><img src="https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
   <a href="https://github.com/Gfgreghi"><img src="https://img.shields.io/badge/GitHub-1E1E28?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"></a>
 </div>
 
+---
 <div align="center">
   <img src="https://img.shields.io/badge/Python-1E1E28?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-1E1E28?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI">
