@@ -1,18 +1,12 @@
-<div align=center><h1>Gustavo Ferreira Greghi</h1><div align=center>
-<hr></hr>
-<div align="center">
+# Gustavo Ferreira Greghi
+
+<div align="left">
   <img src="https://img.shields.io/badge/ENGENHARIA_DA_COMPUTAÇÃO-800020?style=for-the-badge" alt="Engenharia da Computação">
-  <img src="https://img.shields.io/badge/BACK--END_DEVELOPMENT-4A0012?style=for-the-badge" alt="Back-end Development">
+  <img src="https://img.shields.io/badge/BACK--END_DEVELOPMENT-4A0012?style=for-the-badge" alt="Desenvolvimento Back-end">
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gustavofgreghi/">
-    <img src="https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=800020" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Gfgreghi">
-    <img src="https://img.shields.io/badge/GitHub-1E1E28?style=for-the-badge&logo=github&logoColor=800020" alt="GitHub">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=800020)](https://www.linkedin.com/in/gustavofgreghi/)
+[![GitHub](https://img.shields.io/badge/GitHub-1E1E28?style=for-the-badge&logo=github&logoColor=800020)](https://github.com/Gfgreghi)
 
 ---
 
@@ -73,7 +67,7 @@ O projeto é um ambiente de prática para aplicar conceitos de desenvolvimento b
 - Versionamento do esquema do banco de dados com Alembic.
 - Aplicação e banco de dados em serviços separados com Docker Compose.
 
-**Stack do projeto**
+**Tecnologias utilizadas**
 
 ![Python](https://img.shields.io/badge/Python-1E1E28?style=for-the-badge&logo=python&logoColor=3776AB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1E1E28?style=for-the-badge&logo=fastapi&logoColor=009688)
@@ -82,12 +76,9 @@ O projeto é um ambiente de prática para aplicar conceitos de desenvolvimento b
 ![Alembic](https://img.shields.io/badge/Alembic-1E1E28?style=for-the-badge&logo=alembic&logoColor=800020)
 ![MySQL](https://img.shields.io/badge/MySQL-1E1E28?style=for-the-badge&logo=mysql&logoColor=800020)
 ![Docker](https://img.shields.io/badge/Docker-1E1E28?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-1E1E28?style=for-the-badge&logo=docker&logoColor=800020)
 
-<div align="center">
-  <a href="https://github.com/Gfgreghi/sistema_de_estoque">
-    <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-800020?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do projeto">
-  </a>
-</div>
+[![Repositório](https://img.shields.io/badge/VER_REPOSITÓRIO-800020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gfgreghi/sistema_de_estoque)
 
 ## Estudos e leituras
 
@@ -100,3 +91,5 @@ Livros que fazem parte da minha formação em programação e Engenharia de Soft
 - [ ] O Programador Pragmático — David Thomas e Andrew Hunt
 
 ---
+
+*Aprendendo, construindo e evoluindo um projeto de cada vez.*
