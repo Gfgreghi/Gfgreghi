@@ -1,6 +1,6 @@
 # Gustavo Ferreira Greghi
 
-<<div align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/ENGENHARIA_DA_COMPUTAÇÃO-800020?style=for-the-badge" alt="Engenharia da Computação">
   <img src="https://img.shields.io/badge/BACK--END_DEVELOPMENT-4A0012?style=for-the-badge" alt="Desenvolvimento Back-end">
 
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-1E1E28?style=for-the-badge&logo=github&logoColor=800020" alt="GitHub">
   </a>
 </div>
+
 ---
 
 ## Sobre mim
