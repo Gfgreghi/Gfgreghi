@@ -3,11 +3,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/ENGENHARIA_DA_COMPUTAÇÃO-800020?style=for-the-badge" alt="Engenharia da Computação">
   <img src="https://img.shields.io/badge/BACK--END_DEVELOPMENT-4A0012?style=for-the-badge" alt="Desenvolvimento Back-end"><br>
-  <a href="https://www.linkedin.com/in/gustavofgreghi/">
-    <img src="https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Gfgreghi"><img src="https://img.shields.io/badge/GitHub-1E1E28?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
-  </a>
   <br>
 </div>
 
@@ -114,3 +109,11 @@ Livros que fazem parte da minha formação em programação e Engenharia de Soft
 - [ ] Código Limpo — Robert C. Martin
 - [ ] Arquitetura Limpa — Robert C. Martin
 - [ ] O Programador Pragmático — David Thomas e Andrew Hunt
+---
+<div align=center>
+<h2>Contatos e Redes Sociais<h2>
+  <a href="https://www.linkedin.com/in/gustavofgreghi/">
+    <img src="https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  </a> <a href="mailto:seuemail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1E1E28?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail">
+</a></div>
