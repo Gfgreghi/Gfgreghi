@@ -47,7 +47,7 @@ Tenho interesse por matemática, lógica e resolução de problemas. Busco desen
 ### DevOps e ferramentas
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-1E1E28?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1E1E28?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1E1E28?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-1E1E28?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1E1E28?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1E1E28?style=for-the-badge&logo=github&logoColor=white)
 
@@ -55,7 +55,7 @@ Tenho interesse por matemática, lógica e resolução de problemas. Busco desen
 
 ### Sistema WMS — Gerenciamento de Estoque
 
-API REST desenvolvida com Python e FastAPI para o gerenciamento de itens e corredores de estoque. O projeto é utilizado para aplicar conceitos de desenvolvimento back-end, organização de código, persistência de dados e segurança.
+API REST desenvolvida com Python e FastAPI para o gerenciamento de itens e corredores de estoque, aplicando conceitos de desenvolvimento back-end, segurança e Engenharia de Software.
 
 **Funcionalidades**
 - Gerenciamento de itens e corredores de estoque.
@@ -63,6 +63,7 @@ API REST desenvolvida com Python e FastAPI para o gerenciamento de itens e corre
 - Controle de acesso baseado em papéis e permissões (RBAC).
 - Persistência de dados com SQLAlchemy.
 - Versionamento do esquema do banco de dados com Alembic.
+- Conteinerização da aplicação e do banco de dados em serviços separados com Docker e Docker Compose.
 
 **Tecnologias**
 
@@ -70,7 +71,7 @@ API REST desenvolvida com Python e FastAPI para o gerenciamento de itens e corre
 ![FastAPI](https://img.shields.io/badge/FastAPI-1E1E28?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1E1E28?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-1E1E28?style=for-the-badge&logo=pydantic&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-1E1E28?style=for-the-badge&logo=alembic&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-1E1E28?style=for-the-badge&logo=alembic&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1E1E28?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-1E1E28?style=for-the-badge&logo=docker&logoColor=white)
 
 [**Acessar repositório →**](https://github.com/Gfgreghi/sistema_de_estoque)
 
