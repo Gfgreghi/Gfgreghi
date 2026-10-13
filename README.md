@@ -2,15 +2,15 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavofgreghi/">
-    <img src="https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=800020" alt="LinkedIn">
   </a>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-1E1E28?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-1E1E28?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/MySQL-1E1E28?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Docker-1E1E28?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Python-1E1E28?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-1E1E28?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI">
+  <img src="https://img.shields.io/badge/MySQL-1E1E28?style=for-the-badge&logo=mysql&logoColor=" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-1E1E28?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
 </div>
 
 ## Quem sou eu?
@@ -30,26 +30,27 @@ Tenho interesse por matemática, lógica e resolução de problemas. Busco desen
 
 ### Linguagens
 
-![Python](https://img.shields.io/badge/Python-1E1E28?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1E1E28?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E1E28?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-1E1E28?style=for-the-badge&logo=openjdk&logoColor=800020)
 
 ### Back-end
 
-![FastAPI](https://img.shields.io/badge/FastAPI-1E1E28?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1E1E28?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-1E1E28?style=for-the-badge&logo=pydantic&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E1E28?style=for-the-badge&logo=fastapi&logoColor=009688)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1E1E28?style=for-the-badge&logo=sqlalchemy&logoColor=800020)
+![Pydantic](https://img.shields.io/badge/Pydantic-1E1E28?style=for-the-badge&logo=pydantic&logoColor=800020)
 
 ### Bancos de dados
 
-![SQLite](https://img.shields.io/badge/SQLite-1E1E28?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1E1E28?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1E1E28?style=for-the-badge&logo=mysql&logoColor)
+![SQLite](https://img.shields.io/badge/SQLite-1E1E28?style=for-the-badge&logo=sqlite&logoColor=800020)
 
 ### DevOps e ferramentas
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-1E1E28?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1E1E28?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-1E1E28?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1E1E28?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1E1E28?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1E1E28?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1E1E28?style=for-the-badge&logo=ubuntu&logoColor=800020)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-1E1E28?style=for-the-badge&logo=docker&logoColor=800020)
+![Git](https://img.shields.io/badge/Git-1E1E28?style=for-the-badge&logo=git&logoColor=800020)
+![GitHub](https://img.shields.io/badge/GitHub-1E1E28?style=for-the-badge&logo=github&logoColor=800020)
 
 ## Principais projetos
 
@@ -58,6 +59,7 @@ Tenho interesse por matemática, lógica e resolução de problemas. Busco desen
 API REST desenvolvida com Python e FastAPI para o gerenciamento de itens e corredores de estoque, aplicando conceitos de desenvolvimento back-end, segurança e Engenharia de Software.
 
 **Funcionalidades**
+
 - Gerenciamento de itens e corredores de estoque.
 - Autenticação de usuários com JWT.
 - Controle de acesso baseado em papéis e permissões (RBAC).
@@ -67,11 +69,14 @@ API REST desenvolvida com Python e FastAPI para o gerenciamento de itens e corre
 
 **Tecnologias**
 
-![Python](https://img.shields.io/badge/Python-1E1E28?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1E1E28?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1E1E28?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-1E1E28?style=for-the-badge&logo=pydantic&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-1E1E28?style=for-the-badge&logo=alembic&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1E1E28?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-1E1E28?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E1E28?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E1E28?style=for-the-badge&logo=fastapi&logoColor=009688)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1E1E28?style=for-the-badge&logo=sqlalchemy&logoColor=800020)
+![Pydantic](https://img.shields.io/badge/Pydantic-1E1E28?style=for-the-badge&logo=pydantic&logoColor=800020)
+![Alembic](https://img.shields.io/badge/Alembic-1E1E28?style=for-the-badge&logo=alembic&logoColor=800020)
+![MySQL](https://img.shields.io/badge/MySQL-1E1E28?style=for-the-badge&logo=mysql&logoColor=800020)
+![Docker](https://img.shields.io/badge/Docker-1E1E28?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-1E1E28?style=for-the-badge&logo=docker&logoColor=800020)
 
 [**Acessar repositório →**](https://github.com/Gfgreghi/sistema_de_estoque)
 
