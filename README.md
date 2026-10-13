@@ -1,10 +1,10 @@
 <div align=center>
-<h1>Gustavo Ferreira Greghi</h1>
   <a href="https://www.linkedin.com/in/gustavofgreghi/">
     <img src="https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
   </a> <a href="mailto:seuemail@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-1E1E28?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail">
-</a></div><br>
+</a>
+<h1>Gustavo Ferreira Greghi</h1></div>
 <div align="center">
   <img src="https://img.shields.io/badge/ENGENHARIA_DA_COMPUTAÇÃO-800020?style=for-the-badge" alt="Engenharia da Computação">
   <img src="https://img.shields.io/badge/BACK--END_DEVELOPMENT-4A0012?style=for-the-badge" alt="Desenvolvimento Back-end"><br>
