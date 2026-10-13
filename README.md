@@ -20,7 +20,7 @@
 
 
 
-## Sobre mim
+<h2 align=center>Sobre mim</h2>
 
 Sou estudante de **Engenharia da Computação na Universidade Virtual do Estado de São Paulo (UNIVESP)**, com foco no desenvolvimento de software, especialmente back-end.
 
@@ -35,7 +35,7 @@ Tenho interesse por matemática, lógica e resolução de problemas. Busco compr
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=2" width="100%" alt="Separador vinho">
 
-## Projeto em destaque
+<h2 align=center>Projeto em destaque<h2>
 
 ### Sistema WMS — Gerenciamento de Estoque
 
@@ -71,9 +71,8 @@ O projeto reúne práticas de desenvolvimento back-end, persistência de dados, 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=2" width="100%" alt="Separador vinho">
 
-## Tecnologias e ferramentas
+<h2>Tecnologias e ferramentas</h2>
 
-A stack está organizada como uma prateleira: Python ocupa a posição principal, seguido pelas ferramentas de desenvolvimento back-end, banco de dados e infraestrutura.
 
 ### Linguagem principal
 
