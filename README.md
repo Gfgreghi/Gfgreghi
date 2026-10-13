@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Docker-1E1E28?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=2" width="100%" alt="Separador vinho">
+
 
 ## Sobre mim
 
