@@ -32,10 +32,10 @@ Tenho interesse por matemática, lógica e resolução de problemas. Busco compr
 - <img src="https://api.iconify.design/lucide/book-open.svg?color=%23800020" width="16" height="16" alt=""> Estudando Engenharia de Software, SOLID, engenharia de requisitos e métodos ágeis.
 - <img src="https://api.iconify.design/lucide/container.svg?color=%23800020" width="16" height="16" alt=""> Estudando conteinerização e ambientes de desenvolvimento com Docker.
 - <img src="https://api.iconify.design/lucide/terminal.svg?color=%23800020" width="16" height="16" alt=""> Desenvolvendo projetos práticos para consolidar meus conhecimentos.
-<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=2" width="100%" alt="Separador vinho">
 <h2 align=center>Projeto em destaque<h2>
 
 <h3>Sistema WMS — Gerenciamento de Estoque</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=2" width="100%" alt="Separador vinho">
 
 API REST desenvolvida com Python e FastAPI para o gerenciamento de itens e corredores de estoque.
 
