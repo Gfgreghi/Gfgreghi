@@ -91,5 +91,3 @@ Livros que fazem parte da minha formação em programação e Engenharia de Soft
 - [ ] O Programador Pragmático — David Thomas e Andrew Hunt
 
 ---
-
-*Aprendendo, construindo e evoluindo um projeto de cada vez.*
