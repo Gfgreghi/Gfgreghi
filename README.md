@@ -6,8 +6,6 @@
   <a href="https://www.linkedin.com/in/gustavofgreghi/"><img src="https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
   <a href="https://github.com/Gfgreghi"><img src="https://img.shields.io/badge/GitHub-1E1E28?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"></a>
 </div>
-
-
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-1E1E28?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
@@ -15,7 +13,6 @@
   <img src="https://img.shields.io/badge/MySQL-1E1E28?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
   <img src="https://img.shields.io/badge/Docker-1E1E28?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
 </div>
-<br>
 
 ---
 ## Sobre mim
