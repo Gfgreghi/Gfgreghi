@@ -8,7 +8,6 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=2" width="100%" alt="Separador vinho">
 <br></br>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-1E1E28?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
