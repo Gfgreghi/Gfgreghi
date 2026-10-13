@@ -1,12 +1,15 @@
 # Gustavo Ferreira Greghi
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/ENGENHARIA_DA_COMPUTAÇÃO-800020?style=for-the-badge" alt="Engenharia da Computação">
   <img src="https://img.shields.io/badge/BACK--END_DEVELOPMENT-4A0012?style=for-the-badge" alt="Desenvolvimento Back-end">
+  <a href="https://www.linkedin.com/in/gustavofgreghi/">
+    <img src="https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=800020" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Gfgreghi">
+    <img src="https://img.shields.io/badge/GitHub-1E1E28?style=for-the-badge&logo=github&logoColor=800020" alt="GitHub">
+  </a>
 </div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=800020)](https://www.linkedin.com/in/gustavofgreghi/)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1E28?style=for-the-badge&logo=github&logoColor=800020)](https://github.com/Gfgreghi)
 
 ---
 
@@ -77,8 +80,8 @@ O projeto é um ambiente de prática para aplicar conceitos de desenvolvimento b
 ![MySQL](https://img.shields.io/badge/MySQL-1E1E28?style=for-the-badge&logo=mysql&logoColor=800020)
 ![Docker](https://img.shields.io/badge/Docker-1E1E28?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-1E1E28?style=for-the-badge&logo=docker&logoColor=800020)
-
 [![Repositório](https://img.shields.io/badge/VER_REPOSITÓRIO-800020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gfgreghi/sistema_de_estoque)
+
 
 ## Estudos e leituras
 
