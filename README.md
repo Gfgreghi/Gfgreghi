@@ -1,7 +1,7 @@
 <div align=center>
   <a href="https://www.linkedin.com/in/gustavofgreghi/">
     <img src="https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
-  </a> <a href="mailto:seuemail@gmail.com">
+  </a> <a href="mailto:gustavofgregh@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-1E1E28?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail">
 </a>
 <h1>Gustavo Ferreira Greghi</h1></div>
